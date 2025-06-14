@@ -21,4 +21,6 @@ emp1._name = 'Jiravat'
 emp1.__salary = 20000
 
 
+def showdata() :
+    pass
 
