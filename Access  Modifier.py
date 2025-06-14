@@ -1,3 +1,4 @@
+print('Hello')
 # การสร้าง Constructor 
 class Employee:
     # _ is protected สามารถเข้าถึงแค่ใน class ของตัวมันเอง และ class ที่ถูกสือบทอด
