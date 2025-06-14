@@ -1,5 +1,3 @@
-print('Hello')
-print("Jiravat")
 # การสร้าง Constructor 
 class Employee:
     # _ is protected สามารถเข้าถึงแค่ใน class ของตัวมันเอง และ class ที่ถูกสือบทอด
@@ -22,6 +20,4 @@ emp1._name = 'Jiravat'
 emp1.__salary = 20000
 
 
-def showdata() :
-    pass
 
